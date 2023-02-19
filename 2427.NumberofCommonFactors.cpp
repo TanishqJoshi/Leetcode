@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/number-of-common-factors/
+//  https://leetcode.com/problems/number-of-common-factors/
 
 #include<iostream>
 using namespace std;
